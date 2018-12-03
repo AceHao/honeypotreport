@@ -2,18 +2,18 @@
 
 * Which Honeypot(s) you deployed
     I deployed these 4 honeypots:
-      1. mhn-honeypot-1-dionaea : Ubuntu - Dionaea with HTTP
-      2. mhn-honeypot-2-elastichoney : Ubuntu - ElasticHoney
-      3. mhn-honeypot-3-wordpot : Ubuntu - Wordpot
-      4. mhn-honeypot-4-dionaea : Ubuntu 14.04/Centos 7 - Dionaea
+    1. mhn-honeypot-1-dionaea : Ubuntu - Dionaea with HTTP
+    2. mhn-honeypot-2-elastichoney : Ubuntu - ElasticHoney
+    3. mhn-honeypot-3-wordpot : Ubuntu - Wordpot
+    4. mhn-honeypot-4-dionaea : Ubuntu 14.04/Centos 7 - Dionaea
 * Any issues you encountered
-      1. I had trouble opening the MHN admin portal because tcp:80 was not added to firewall rule in GCP when following the instruction.
+    1. I had trouble opening the MHN admin portal because tcp:80 was not added to firewall rule in GCP when following the instruction.
 * A summary of the data collected: number of attacks, number of malware samples, etc.
     * Number of attacks from 15 NOV to 02 DEC : 17 days  
-      1. mhn-honeypot-1-dionaea : Ubuntu - Dionaea with HTTP : 105,968
-      2. mhn-honeypot-2-elastichoney : Ubuntu - ElasticHoney : 34
-      3. mhn-honeypot-3-wordpot : Ubuntu - Wordpot : 0
-      4. mhn-honeypot-4-dionaea : Ubuntu 14.04/Centos 7 - Dionaea : 103,876
+    1. mhn-honeypot-1-dionaea : Ubuntu - Dionaea with HTTP : 105,968
+    2. mhn-honeypot-2-elastichoney : Ubuntu - ElasticHoney : 34
+    3. mhn-honeypot-3-wordpot : Ubuntu - Wordpot : 0
+    4. mhn-honeypot-4-dionaea : Ubuntu 14.04/Centos 7 - Dionaea : 103,876
     * For past 24 hrs: 
         * Attacks in the last 24 hours: 12,427:
         * TOP 5 Attacked ports:
