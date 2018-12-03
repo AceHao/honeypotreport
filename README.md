@@ -1,6 +1,7 @@
 # honeypotreport
 
 * Which Honeypot(s) you deployed
+
     I deployed these 4 honeypots:
     1. mhn-honeypot-1-dionaea : Ubuntu - Dionaea with HTTP
     2. mhn-honeypot-2-elastichoney : Ubuntu - ElasticHoney
@@ -27,6 +28,6 @@
             2. elastichoney (3 attacks)
                 
 * Any unresolved questions raised by the data collected
-    1. which countries sent out the most attacks
-    2. which countries are getting most of the attacks
+    1. which countries sent out the most attacks?
+    2. which countries are getting most of the attacks?
     
